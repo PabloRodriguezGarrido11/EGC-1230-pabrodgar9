@@ -16,6 +16,10 @@ install:
   - pip install codacy-coverage
 script:
   - cd decide
-  - coverage run --branch --source=. ./manage.py test store --keepdb 
+  - coverage run --branch --source=. ./manage.py test voting --keepdb 
   - coverage xml
   - python-codacy-coverage -r coverage.xml
+notifications:
+  email:
+    recipients:
+      - pabrodgar9@alum.us.es
