@@ -17,6 +17,7 @@ install:
 script:
   - cd decide
   - coverage run --branch --source=. ./manage.py voting --keepdb 
+  - cp travis_local_settings.py local_settings.py
   - coverage xml
   - python-codacy-coverage -r coverage.xml
 notifications:
@@ -25,3 +26,11 @@ notifications:
       - pabrodgar9@alum.us.es
     on_success: change
     on_failure: always
+deploy:
+  provider: heroku
+  branches:
+    only:
+      - master
+  app: egc-examen-pabrodgar9
+  strategy: git
+  api_key:  $HEROKU_AUTH_TOKEN
