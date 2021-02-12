@@ -1,6 +1,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/332c776e030e477babdc512a90dc2d0e)](https://www.codacy.com/gh/PabloRodriguezGarrido11/EGC-1230-pabrodgar9/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PabloRodriguezGarrido11/EGC-1230-pabrodgar9&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/332c776e030e477babdc512a90dc2d0e)](https://www.codacy.com/gh/PabloRodriguezGarrido11/EGC-1230-pabrodgar9/dashboard?utm_source=github.com&utm_medium=referral&utm_content=PabloRodriguezGarrido11/EGC-1230-pabrodgar9&utm_campaign=Badge_Coverage)
-Travis CI status: [![Build Status](https://travis-ci.com/PabloRodriguezGarrido11/EGC-1230-pabrodgar9.svg?branch=main](https://travis-ci.com/github/PabloRodriguezGarrido11/EGC-1230-pabrodgar9)
+Travis CI status: [![Build Status](https://travis-ci.com/PabloRodriguezGarrido11/EGC-1230-pabrodgar9.svg?branch=master)](https://travis-ci.com/github/PabloRodriguezGarrido11/EGC-1230-pabrodgar9)
 
 
 
