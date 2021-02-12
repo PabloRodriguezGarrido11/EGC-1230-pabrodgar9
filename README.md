@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.com/wadobo/decide.svg?branch=master)](https://travis-ci.com/wadobo/decide) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wadobo/decide&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&utm_medium=referral&utm_content=wadobo/decide&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/332c776e030e477babdc512a90dc2d0e)](https://www.codacy.com/gh/PabloRodriguezGarrido11/EGC-1230-pabrodgar9/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PabloRodriguezGarrido11/EGC-1230-pabrodgar9&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/332c776e030e477babdc512a90dc2d0e)](https://www.codacy.com/gh/PabloRodriguezGarrido11/EGC-1230-pabrodgar9/dashboard?utm_source=github.com&utm_medium=referral&utm_content=PabloRodriguezGarrido11/EGC-1230-pabrodgar9&utm_campaign=Badge_Coverage)
+Travis CI status: [![Build Status](https://travis-ci.com/PabloRodriguezGarrido11/EGC-1230-pabrodgar9.svg?branch=main](https://travis-ci.com/github/PabloRodriguezGarrido11/EGC-1230-pabrodgar9)
+
+
 
 Plataforma voto electrónico educativa
 =====================================
